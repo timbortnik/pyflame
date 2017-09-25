@@ -1,3 +1,9 @@
+pyflame (1.5.7) unstable; urgency=medium
+
+  * Fix issue with processes that fork, closes #122
+
+ -- Evan Klitzke <evan@localhost>  Mon, 25 Sep 2017 16:28:59 -0700
+
 pyflame (1.5.6) unstable; urgency=medium
 
   * Fix minor issue w/ EAGAIN during munmap
